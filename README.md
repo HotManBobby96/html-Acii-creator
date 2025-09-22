@@ -1,0 +1,1 @@
+Uses c++, click htmlAciiComplete through 2 folders. you will see your input and output. put you acii art into the input and run the program. It will add <br> to the end to where you just need to copy it to your html program. 
