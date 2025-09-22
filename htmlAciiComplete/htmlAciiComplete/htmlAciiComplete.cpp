@@ -41,17 +41,29 @@ void writeLine(string& filePath, string& htmlB, vector<string>& acii, int& count
     file.close();
 }
 
+void reverseAcii(vector<string>& acii, int& count, vector<string>& reversedAcii) {
+    for(int i = 0; i < count; i++) {
+        reversedAcii.push_back(acii[count - 1 - i]); // adds to vector in reverse order
+	}
+	cout << "Reversed Acii:" << endl;
+}
+
 int main()
 {
     // vars
     string htmlB = "<br>";
     string filePath = "input.txt";
     string fileAcii = "output.txt";
+	string reversedFileAcii = "reversedOutput.txt";
     vector<string> acii;
+	vector<string> reversedAcii;
 
     //functions
     int count = countLines(filePath, acii);
+	reverseAcii(acii, count, reversedAcii);
     writeLine(fileAcii, htmlB, acii, count);
+    writeLine(reversedFileAcii, htmlB, reversedAcii, count);
+
 
     return 0; // end of program
 }

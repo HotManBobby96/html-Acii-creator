@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\beblakney08\\Desktop\\html-Acii-creator\\htmlAciiComplete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86F7A312-C958-40C1-B9CB-8790FBEA2A09}|htmlAciiComplete\\htmlAciiComplete.vcxproj|C:\\Users\\beblakney08\\Desktop\\html-Acii-creator\\htmlAciiComplete\\htmlAciiComplete\\htmlAciiComplete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86F7A312-C958-40C1-B9CB-8790FBEA2A09}|htmlAciiComplete\\htmlAciiComplete.vcxproj|solutionrelative:htmlAciiComplete\\htmlAciiComplete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "htmlAciiComplete.cpp",
+              "DocumentMoniker": "C:\\Users\\beblakney08\\Desktop\\html-Acii-creator\\htmlAciiComplete\\htmlAciiComplete\\htmlAciiComplete.cpp",
+              "RelativeDocumentMoniker": "htmlAciiComplete\\htmlAciiComplete.cpp",
+              "ToolTip": "C:\\Users\\beblakney08\\Desktop\\html-Acii-creator\\htmlAciiComplete\\htmlAciiComplete\\htmlAciiComplete.cpp",
+              "RelativeToolTip": "htmlAciiComplete\\htmlAciiComplete.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T18:49:22.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
